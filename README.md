@@ -26,6 +26,12 @@ The laboratory runs on a Windows host using Microsoft Hyper-V.
 | Domain Controller IP | `192.168.100.10` |
 | Network connectivity | Virtual NAT |
 
+### Hyper-V Environment
+
+The following screenshot shows the two Windows Server virtual machines running in the Hyper-V environment.
+
+![Hyper-V virtual machines running](images/infrastructure/hyper-v-vms.png)
+
 The environment is isolated from production infrastructure and is used exclusively for learning and testing.
 
 ## Technologies and Tools
