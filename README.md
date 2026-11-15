@@ -83,6 +83,7 @@ Diagnostic tools included:
 The investigation included checking DNS service records, domain services, NTP configuration and Windows Time Service status.
 
 This case study documents the diagnostic process, configuration changes and subsequent verification.
+[Read the AD-001 troubleshooting case study](docs/AD-001-time-sync-troubleshooting.md)
 
 ### 4. File Server Configuration
 
